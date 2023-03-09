@@ -3,7 +3,7 @@ import AboutImage from "../Assets/about-background-image.png";
 
 const About = () => {
   return (
-    <div className="aboutcontainer">
+    <div className="aboutcontainer bg-about-image bg-no-repeat bg-fixed bg-left w-full py-20" id="about">
       <h2 className="text-center mt-8 text-orange-600 font-bold">About</h2>
       <div className="flex flex-row items-center justify-around px-6 ">
         <div className="img w-2/5">

@@ -6,7 +6,7 @@ import Delivery from '../Assets/delivery-image.png';
 
 const Work = () => {
     return (
-        <div>
+        <div className="py-20">
             <h1 className="text-center top-8 text-orange-600 font-bold">Work</h1>
             <div className="works text-center">
                 <h1 className="heading text-6xl font-medium my-1">How it Works</h1>
